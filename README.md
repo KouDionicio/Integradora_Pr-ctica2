@@ -5,7 +5,7 @@ Práctica de clase  para comenzar a utilizar GitHub como herramienta para el des
 
 ### Encabrezados  (Headings)
 Para poder dar enfásis a los contenidos de la documentación podemos utilizar los encabezados (Headings).
-Para marcar alguna sección o subsección estos se marcan utilizando el símbolo # ,entre menos repeticiones tenga mayor tamaño e importanci tendrá el texto.
+Para marcar alguna sección o subsección estos se marcan utilizando el símbolo # ,entre menos repeticiones tenga mayor tamaño e importancia tendrá el texto.
 
 Ejemplo:
 
