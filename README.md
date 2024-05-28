@@ -3,7 +3,7 @@ Práctica de clase  para comenzar a utilizar GitHub como herramienta para el des
 
 ### Comandos Básicos para el Maquetado 
 
-### Encabrezados  (Headings)
+### Encabezados  (Headings)
 Para poder dar enfásis a los contenidos de la documentación podemos utilizar los encabezados (Headings).
 Para marcar alguna sección o subsección estos se marcan utilizando el símbolo # ,entre menos repeticiones tenga mayor tamaño e importancia tendrá el texto.
 
