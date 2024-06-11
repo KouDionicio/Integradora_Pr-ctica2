@@ -138,3 +138,30 @@ Y si deseamos incluir viñetas para enlistar pasos podemos utilizar el caracter 
 > - Descargamos el archivo de respaldo de la Base de datos (.sql)
 > - Restauramos la Base de Datos usando el comando *mysql*
 >> C:/Program Files/MySQL/MySQL Server 8.0/bin/mysql
+
+
+### 6. Listas Ordenadas y Listas Desordenadas
+
+
+***EJEMPLO:**
+Para crear tu primer repositorio en GitHub deberás:
+5.Contar con cuenta en GitHub.
+1.Dar click en el boton: **Nuevo Repositorio*
+2.Asignar un Nombre a tu repositorio, por ejemplo: *practica03-3a*
+8.Asignarle un nivel de privacidad entre
+- **Publico:** Si quieres que esté disponible para todos los usuarios.
+- **Privado:** Si deseas que solo a quien tu decidas puedan y colaborar con tu proyecto.
+5.Definir si habrá exclusiones de archivos de descripción lamado : *README.md*
+50.Definir si habrá eclusiones de archivbos a través del archivo: *.gitignore*
+3.Guardar los cambios.
+  
+ Si queremos usar un orden que comience en número especifico debemos utilizar código HTML,usando los tags \<ol> y \<li> :
+
+ **EJEMPLO:**
+
+ <ol start="5">
+ <li>Quinto</li>
+ <li>Sexto</li>
+ <li>Séptimo</li>
+ </ol>
+ 
