@@ -110,3 +110,31 @@ Algubas veces necesitaremos subrayar texto dentro de la documentación, para ell
 EJEMPLO:
 
 Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto <ins> Texto Subrayado</ins>Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto Texto 
+
+### 5.Cuadros para Código o Reseñas (BLOCKQUOTES)
+
+Estos elementos son utilizados para realizar instrucciones especificas para la instalación.Configuración y/o inicialización o mostrar secciones de código fuente. Se maqueta iniciando el texto con un símbolo de mayor que (\>)
+
+**EJEMPLO:**
+Para listar las carpetas y archivos desde una terminal de sistema operativo windows debemos ingresar el comando:
+>c:/dir
+
+Despues oprimimos la tecla "Enter".
+También podemos ingresar textos multitarea.
+
+**EJEMPLO:**
+
+>Aqui se ingresa un conjunto de instrucciones
+>para explicar al usuario, como instalar el
+>software que hemos diseñado.
+
+Y si deseamos incluir viñetas para enlistar pasos podemos utilizar el caracter - dentro del texto a documentar.
+
+**EJEMPLO:**
+**Pasos para instalar la Base de Datos:**
+> - Descargar MySQL Server del sitio Oficial
+> - Instalar el Sistema Gestor de Bases de Datos, definiendo el puerto y contraseña para el usuario.
+***root***
+> - Descargamos el archivo de respaldo de la Base de datos (.sql)
+> - Restauramos la Base de Datos usando el comando *mysql*
+>> C:/Program Files/MySQL/MySQL Server 8.0/bin/mysql
