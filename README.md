@@ -143,7 +143,7 @@ Y si deseamos incluir viñetas para enlistar pasos podemos utilizar el caracter 
 ### 6. Listas Ordenadas y Listas Desordenadas
 
 
-***EJEMPLO:**
+**EJEMPLO:**
 Para crear tu primer repositorio en GitHub deberás:
 5.Contar con cuenta en GitHub.
 1.Dar click en el boton: **Nuevo Repositorio*
@@ -165,3 +165,17 @@ Para crear tu primer repositorio en GitHub deberás:
  <li>Séptimo</li>
  </ol>
  
+### 7.Ligas (Hípervinculos)
+Las ligas son utilizadas para vincular elementos o referencias del proyecto dentro del mismo repositorio o fuera de el. Y se maquetan utilizando los corchetes \[ \], inmediatamente despues pondremos la liga de referencia entre parentesis \( \)
+
+**EJEMPLO:**
+Mi buscador favorito es: [Google](https://www.google.com)
+
+Pero si deseamos poner solo las ligas directas o un correo electronico podemos utilizar los simbolos < \>
+
+**EJEMPLO:**
+
+Documentación creada por: ***Alumna Citlalli Pérez Dionicio***
+<230237@utxicotepec.edu.mx>
+
+<http://www.utxicotepec.edu.mx>
