@@ -210,4 +210,7 @@ En caso de necesitar la fusión de celdas con columnas usaremos la propiedad *co
 Dado que en el ejmeplo pasado usando solo markdown no se puede realizar la fusión de filas debamos utilizar el estandar HTML,usando los tags: \<th> para los encabezados y \<tr> para las filas y <td> para las celdas, y en ellos utilizar la propiedad de *colspan* y *rowspan*.
 
 **EJEMPLO:**
+<table> <tr> <th>Encabezado1</th> <th>Encabezado2</th> <th>Encaberado3</th> <th>Encabezado4</th> </tr> <tr> <td>file 1 celda 1</td> <td>file 1 celda 2</td> <td>file 1 celda 3</td> <td>file 1 celda 4</td> </tr> <tr> <td>file 2 celda 1</td> <td colspan="3" align="center">file 2 celda 2</td> </tr> <tr> <td></td> <td>file 3 celda 2</td> <td>file 3 celda 3</td> <td>file 3 celda 4</td> </tr> <tr> <td>file 4 celda 1</td> <td>file 4 celda 2</td> <td>file 4 celda 3</td> <td>file 4 celda 4</td> </tr> <tr> <td></td> <td>file 5 celda 2</td> <td>file 5 celda 3</td> <td>file 5 celda 4</td> </tr> <tr> <td>file 6 celda 1</td> <td>file 6 celda 2</td> <td>file 6 celda 3</td> <td>file 6 celda 4</td> </tr> </table> 
+
+
 
